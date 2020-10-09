@@ -21,4 +21,4 @@ Numbered list:
 
 [Link to my Repo](https://github.com/laurichi13/friendly-collab-party/)
 
-![image](https://dianawynnejones.fandom.com/wiki/Calcifer?file=Calcifer.png)
+![image](https://static.wikia.nocookie.net/studio-ghibli/images/2/2a/Calcifer.png/revision/latest?cb=20110705204516)
