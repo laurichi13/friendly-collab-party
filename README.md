@@ -20,3 +20,5 @@ Numbered list:
 **negrita**
 
 [Link to my Repo](https://github.com/laurichi13/friendly-collab-party/)
+
+![image](https://dianawynnejones.fandom.com/wiki/Calcifer?file=Calcifer.png)
